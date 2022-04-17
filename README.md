@@ -1,15 +1,16 @@
 <h2 align='center'> Hi there, I'm Mario Szocs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <p align="center">
-   <img src="https://badges.pufler.dev/visits/marioszocs/marioszocs"/> 
-   <img src="https://badges.pufler.dev/repos/marioszocs"/>
+   <img src="https://badges.pufler.dev/visits/marioszocs/marioszocs" alt="marioszocs"/> 
+   <img src="https://badges.pufler.dev/repos/marioszocs" alt="marioszocs"/>
 </p>
+
 
 <p align="center">
-   <br><img src="https://github.com/marioszocs/marioszocs/blob/master/Developer.gif" width="450px" alt="Developer"><br><br>
+   <br><img src="https://user-images.githubusercontent.com/11271085/163711111-a3f46567-e23e-44de-a066-859964552b94.gif" width="400px" alt="Developer"><br><br>
 </p>
 
-<h3>🚀 Tech Stack</h3>
+<h3>🚀 Tech Stack: </h3>
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" />
@@ -26,12 +27,10 @@
    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="30" height="30" />
 </p>
 
-</br>
 
-<h3>⚙️ GitHub Analytics</h3>
-<p align="center">
-   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marioszocs&hide=kotlin,hlsl&layout=compact&langs_count=8"/>
-   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=marioszocs&show_icons=true&line_height=27&include_all_commits=true&count_private=true"/>
+<h3 align="left">Find me around the web: </h3>
+<p align="left">
+   <a href="https://www.linkedin.com/in/mario-szocs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="marioszocs" height="40" width="40" /></a>
 </p>
 
 <hr>
@@ -41,8 +40,4 @@
 
 </p>
 
-<h3  align='center'>Find me around the web 🌎 </h3>
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/mario-szocs"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
