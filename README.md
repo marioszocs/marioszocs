@@ -1,12 +1,6 @@
 <h2 align='center'> Hi there, I'm Mario Szocs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <p align="center">
-   <img src="https://badges.pufler.dev/visits/marioszocs/marioszocs" alt="marioszocs"/> 
-   <img src="https://badges.pufler.dev/repos/marioszocs" alt="marioszocs"/>
-</p>
-
-
-<p align="center">
    <br><img src="https://user-images.githubusercontent.com/11271085/163711111-a3f46567-e23e-44de-a066-859964552b94.gif" width="400px" alt="Developer"><br><br>
 </p>
 
