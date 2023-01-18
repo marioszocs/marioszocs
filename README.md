@@ -1,7 +1,5 @@
-<h2 align='center'> Hi there, I'm Mario Szocs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-
 <p align="center">
-   <br><img src="https://user-images.githubusercontent.com/11271085/163711111-a3f46567-e23e-44de-a066-859964552b94.gif" width="400px" alt="Developer"><br><br>
+   <br><img src="https://user-images.githubusercontent.com/11271085/163711111-a3f46567-e23e-44de-a066-859964552b94.gif" width="320px" alt="Developer"><br><br>
 </p>
 
 <h3>🚀 Tech Stack: </h3>
@@ -27,11 +25,6 @@
    <a href="https://www.linkedin.com/in/mario-szocs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="marioszocs" height="40" width="40" /></a>
 </p>
 
-<hr>
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/marioszocs/marioszocs/master/images/github-grid-snake.svg" alt="snake">
-
-</p>
 
 
