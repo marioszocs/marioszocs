@@ -1,7 +1,3 @@
-<p align="center">
-   <br><img src="https://user-images.githubusercontent.com/11271085/163711111-a3f46567-e23e-44de-a066-859964552b94.gif" width="320px" alt="Developer"><br><br>
-</p>
-
 <h3>🚀 Tech Stack: </h3>
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
