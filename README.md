@@ -1,4 +1,5 @@
 <h3>🚀 Tech Stack: </h3>
+
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" />
@@ -15,12 +16,21 @@
    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="30" height="30" />
 </p>
 
+- Backend: Java (8, 11), Spring Boot, Hibernate, Spring Cloud, Restful Services, Microservices
+- Frontend: HTML5, CSS3, JavaScript
+- Database: MySql, PostgreSQL
+- Build tools: Maven
+- Servers: Tomcat, Jboss
+- Version Control: Git
+- IDE: Intellij IDEA, VS Code, Eclipse
+- Operating System: Mac, Windows
+- Project Management: Scrum, SAFe
+
+Soft Skills:
+- Problem Solving, TeamWork, Communication
+
 
 <h3 align="left">Find me around the web: </h3>
 <p align="left">
-   <a href="https://www.linkedin.com/in/mario-szocs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="marioszocs" height="40" width="40" /></a>
+   <a href="https://www.linkedin.com/in/mario-szocs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Mario's LinkedIn" height="40" width="40" /></a>
 </p>
-
-
-
-
