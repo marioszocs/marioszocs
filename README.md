@@ -16,21 +16,21 @@
    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="30" height="30" />
 </p>
 
-- Backend: Java (8, 11), Spring Boot, Hibernate, Spring Cloud, Restful Services, Microservices
-- Frontend: HTML5, CSS3, JavaScript
-- Database: MySql, PostgreSQL
-- Build tools: Maven
-- Servers: Tomcat, Jboss
-- Version Control: Git
-- IDE: Intellij IDEA, VS Code, Eclipse
-- Operating System: Mac, Windows
-- Project Management: Scrum, SAFe
 
-Soft Skills:
-- Problem Solving, TeamWork, Communication
+Technical Skills
+- Backend Development: Java (21), Spring Boot, Hibernate, Spring Cloud, RESTful Services, Microservices
+- Frontend Technologies: HTML5, CSS3, JavaScript
+- Databases: MySQL, PostgreSQL
+- Build & Dependency Management: Maven
+- Application Servers: Tomcat, JBoss
+- Version Control Systems: Git
+- Development Environments: IntelliJ IDEA, VS Code, Eclipse
+- Operating Systems: macOS, Windows
+- Project Management Frameworks: Scrum, SAFe
+
+Soft Skills
+- Strong problem-solving abilities with a structured and analytical approach
+- Excellent teamwork and collaboration in cross-functional environments
+- Effective communication skills, both written and verbal
 
 
-<h3 align="left">Find me around the web: </h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/mario-szocs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Mario's LinkedIn" height="40" width="40" /></a>
-</p>
